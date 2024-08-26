@@ -1,5 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
+### Name : K MADHAVA REDDY
+### Reg no : 212223240064
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
